@@ -1,4 +1,5 @@
 #include "binary_trees.h"
+
 /**
  * binary_tree_inorder - function to traverse the tree inorder
  * @tree- pointer to the root
