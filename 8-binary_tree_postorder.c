@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_postorder - function to traverse the tree postorder
- * @tree- pointer to the root
+ * @tree: pointer to the root
  * @func: function to call to process the data of the node
  * Return: nothing as it's void
  */
