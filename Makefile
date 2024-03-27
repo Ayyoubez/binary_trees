@@ -10,7 +10,7 @@ OUTPUT_FOLDER = OUTPUT/
 
 # change here
 NAME_NUM = 0-
-NAME_of_file = binary_tree_print.c
+NAME_of_file = binary_tree_node.c
 OUTPUT_NAME = 0-n
 
 # --------------------------------
